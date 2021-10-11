@@ -1,4 +1,4 @@
-[![Maven Package](https://github.com/jonasdevries/mvn-testing/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/jonasdevries/mvn-testing/actions/workflows/maven-publish.yml)
+[![Java CI with Maven](https://github.com/jonasdevries/mvn-testing/actions/workflows/maven.yml/badge.svg)](https://github.com/jonasdevries/mvn-testing/actions/workflows/maven.yml)
 
 # Getting Started
 Maven project without Spring Boot
